@@ -1,0 +1,13 @@
+{
+  "events":[
+    {"date-start":"2014-10-25","date-end":"2014-11-15","id":"task1","info":"blahblah"},
+    {"date-start":"2014-10-18","date-end":"2014-12-15","id":"task2","info":"blahblah"},
+    {"date-start":"2014-11-17","date-end":"2014-11-19","id":"task3","info":"blahblah"}
+  ],
+  "tasks":[
+    {"id":"task1","steps":[
+      {"label":"ceci est une step"},
+      {"label":"ceci est la suite de la première step"}
+    ]}
+  ]
+}
